@@ -1,10 +1,10 @@
 # Hyper_tuning_Neural_Network
 
-Ways to hyperparameter tuning :
+Ways to hyperparameter tuning:
 
-->Manual Hypertuning
+- Manual Hypertuning
 
-->Automatic hyperparameter tuning
+- Automatic hyperparameter tuning
 
 1.   Random search 
 2.   Grid  search
